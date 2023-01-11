@@ -24,6 +24,11 @@
 14. [How to set up OpenSSH server in Windows Subsystem for Linux (WSL)?](https://www.geeksforgeeks.org/how-to-set-up-openssh-server-in-windows-subsystem-for-linux-wsl/)
 15. [Python OOPS – Aggregation and Composition](https://www.geeksforgeeks.org/python-oops-aggregation-and-composition/)
 16. [Create a Telegram Bot using Python](https://www.geeksforgeeks.org/create-a-telegram-bot-using-python/)
+17. [Using Pointers in Python using ctypes](https://www.geeksforgeeks.org/using-pointers-in-python-using-ctypes/)
+18. [Creating Multipage Applications Using Streamlit](https://www.geeksforgeeks.org/creating-multipage-applications-using-streamlit/)
+19. [Create Plotly Express charts in less lines of code using Python and Datamallet](https://www.geeksforgeeks.org/create-plotly-express-charts-in-less-lines-of-code-using-python-and-datamallet/)
+20. [Streamlit Extras in Python](https://www.geeksforgeeks.org/streamlit-extras-in-python/)
+21. [Manipulating Pandas DataFrame using Mitosheet](https://www.geeksforgeeks.org/manipulating-pandas-dataframe-using-mitosheet/)
 
 
 ## Articles which I have improved -
