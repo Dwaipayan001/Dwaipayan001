@@ -29,12 +29,16 @@
 19. [Create Plotly Express charts in less lines of code using Python and Datamallet](https://www.geeksforgeeks.org/create-plotly-express-charts-in-less-lines-of-code-using-python-and-datamallet/)
 20. [Streamlit Extras in Python](https://www.geeksforgeeks.org/streamlit-extras-in-python/)
 21. [Manipulating Pandas DataFrame using Mitosheet](https://www.geeksforgeeks.org/manipulating-pandas-dataframe-using-mitosheet/)
+22. [Increase the speed of Web Scraping in Python using HTTPX module](https://www.geeksforgeeks.org/increase-the-speed-of-web-scraping-in-python-using-httpx-module/)
+23. [Storing passwords with Python keyring](https://www.geeksforgeeks.org/storing-passwords-with-python-keyring/)
 
 
 ## Articles which I have improved -
 
 1. [Linear Search Algorithm](https://www.geeksforgeeks.org/linear-search/).
 2. [Tuples in Python](https://www.geeksforgeeks.org/tuples-in-python/).
+3. [A Beginners Guide To Streamlit](https://www.geeksforgeeks.org/a-beginners-guide-to-streamlit/)
+
 
 
 <!---
