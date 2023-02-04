@@ -30,7 +30,9 @@
 20. [Streamlit Extras in Python](https://www.geeksforgeeks.org/streamlit-extras-in-python/)
 21. [Manipulating Pandas DataFrame using Mitosheet](https://www.geeksforgeeks.org/manipulating-pandas-dataframe-using-mitosheet/)
 22. [Increase the speed of Web Scraping in Python using HTTPX module](https://www.geeksforgeeks.org/increase-the-speed-of-web-scraping-in-python-using-httpx-module/)
-23. [Storing passwords with Python keyring](https://www.geeksforgeeks.org/storing-passwords-with-python-keyring/)
+23. [TextaCy module in Python](https://www.geeksforgeeks.org/textacy-module-in-python/).
+24. [Create a Modern login UI using CustomTkinter module in Python](https://www.geeksforgeeks.org/create-a-modern-login-ui-using-customtkinter-module-in-python/)
+25. [Storing passwords with Python keyring](https://www.geeksforgeeks.org/storing-passwords-with-python-keyring/)
 
 
 ## Articles which I have improved -
