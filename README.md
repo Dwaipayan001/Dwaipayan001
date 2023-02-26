@@ -38,13 +38,19 @@
 28. [Handling TOML files using Python](https://www.geeksforgeeks.org/handling-toml-files-using-python/).
 29. [Massively Speed up Processing using Joblib in Python](https://www.geeksforgeeks.org/massively-speed-up-processing-using-joblib-in-python/).
 30. [Status elements in Streamlit](https://www.geeksforgeeks.org/status-elements-in-streamlit/)
+31. [Perl Program to Find Out Odd and Even Numbers From a List of Numbers](https://www.geeksforgeeks.org/perl-program-to-find-out-odd-and-even-numbers-from-a-list-of-numbers/).
+32. [Perl Reverse Sort Method](https://www.geeksforgeeks.org/perl-reverse-sort-method/)
 
 
-## Articles which I have improved -
+## Articles which I have improved (Till Now....) -
 
 1. [Linear Search Algorithm](https://www.geeksforgeeks.org/linear-search/).
 2. [Tuples in Python](https://www.geeksforgeeks.org/tuples-in-python/).
 3. [A Beginners Guide To Streamlit](https://www.geeksforgeeks.org/a-beginners-guide-to-streamlit/)
+4. [Perl | STDIN in Scalar and List Context](https://www.geeksforgeeks.org/perl-stdin-in-scalar-and-list-context/)
+5. [Perl | Use of STDIN for Input](https://www.geeksforgeeks.org/perl-use-of-stdin-for-input/).
+6. [Perl | Loops (for, foreach, while, do...while, until, Nested loops)](https://www.geeksforgeeks.org/perl-loops-for-foreach-while-do-while-until-nested-loops/).
+7. [Python Match-Case Statement](https://www.geeksforgeeks.org/python-match-case-statement/)
 
 
 
