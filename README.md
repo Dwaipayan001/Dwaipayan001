@@ -39,7 +39,8 @@
 29. [Massively Speed up Processing using Joblib in Python](https://www.geeksforgeeks.org/massively-speed-up-processing-using-joblib-in-python/).
 30. [Status elements in Streamlit](https://www.geeksforgeeks.org/status-elements-in-streamlit/)
 31. [Perl Program to Find Out Odd and Even Numbers From a List of Numbers](https://www.geeksforgeeks.org/perl-program-to-find-out-odd-and-even-numbers-from-a-list-of-numbers/).
-32. [Perl Reverse Sort Method](https://www.geeksforgeeks.org/perl-reverse-sort-method/)
+32. [Perl | Reverse Sort Method](https://www.geeksforgeeks.org/perl-reverse-sort-method/)
+33. [Perl | Switch Case ](https://www.geeksforgeeks.org/perl-switch-case/).
 
 
 ## Articles which I have improved (Till Now....) -
@@ -51,8 +52,12 @@
 5. [Perl | Use of STDIN for Input](https://www.geeksforgeeks.org/perl-use-of-stdin-for-input/).
 6. [Perl | Loops (for, foreach, while, do...while, until, Nested loops)](https://www.geeksforgeeks.org/perl-loops-for-foreach-while-do-while-until-nested-loops/).
 7. [Python Match-Case Statement](https://www.geeksforgeeks.org/python-match-case-statement/)
-
-
+8. [Perl | Print Operator](https://www.geeksforgeeks.org/perl-print-operator/).
+9. [Check whether the given character is in upper case, lower case or non alphabetic character](https://www.geeksforgeeks.org/check-whether-the-given-character-is-in-upper-case-lower-case-or-non-alphabetic-character/)/
+10. [Recursion in Perl](https://www.geeksforgeeks.org/recursion-in-perl/)
+11. [10 Tips to Maximize Your Python Code Performance in 2023](https://www.geeksforgeeks.org/tips-to-maximize-your-python-code-performance/)
+12. [How to add colour to Excel cells using Python](https://www.geeksforgeeks.org/how-to-add-colour-to-excel-cells-using-python/)
+13. [Perl | References](https://www.geeksforgeeks.org/perl-references/)
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
