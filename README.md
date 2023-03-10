@@ -58,6 +58,9 @@
 11. [10 Tips to Maximize Your Python Code Performance in 2023](https://www.geeksforgeeks.org/tips-to-maximize-your-python-code-performance/)
 12. [How to add colour to Excel cells using Python](https://www.geeksforgeeks.org/how-to-add-colour-to-excel-cells-using-python/)
 13. [Perl | References](https://www.geeksforgeeks.org/perl-references/)
+14. [DBMS Full Form](https://www.geeksforgeeks.org/dbms-full-form/).
+15. [Perl | unshift() Function](https://www.geeksforgeeks.org/perl-unshift-function/).
+16. [Perl | index() Function](https://www.geeksforgeeks.org/perl-index-function/)
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
