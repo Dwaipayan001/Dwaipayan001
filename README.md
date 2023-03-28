@@ -33,7 +33,7 @@
 23. [TextaCy module in Python](https://www.geeksforgeeks.org/textacy-module-in-python/).
 24. [Create a Modern login UI using CustomTkinter module in Python](https://www.geeksforgeeks.org/create-a-modern-login-ui-using-customtkinter-module-in-python/)
 25. [Storing passwords with Python keyring](https://www.geeksforgeeks.org/storing-passwords-with-python-keyring/).
-26. [Building Flutter Apps in Python](https://www.geeksforgeeks.org/building-flutter-apps-in-python/).
+26. [Building Flutter Apps in Python](https://www.geeksforgeeks.org/building-flutter-apps-in-python/).[STOOD 10TH IN TECHNICAL SCRIPTER 2022 ORGANIZED BY GFG]
 27. [Adding Lottie animation in Streamlit WebApp](https://www.geeksforgeeks.org/adding-lottie-animation-in-streamlit-webapp/).
 28. [Handling TOML files using Python](https://www.geeksforgeeks.org/handling-toml-files-using-python/).
 29. [Massively Speed up Processing using Joblib in Python](https://www.geeksforgeeks.org/massively-speed-up-processing-using-joblib-in-python/).
@@ -61,6 +61,26 @@
 14. [DBMS Full Form](https://www.geeksforgeeks.org/dbms-full-form/).
 15. [Perl | unshift() Function](https://www.geeksforgeeks.org/perl-unshift-function/).
 16. [Perl | index() Function](https://www.geeksforgeeks.org/perl-index-function/)
+--IN MARCH--
+17. [Count of numbers with all digits same in a given range](https://www.geeksforgeeks.org/count-of-numbers-with-all-digits-same-in-a-given-range/).
+18. [Largest palindromic number in an array](https://www.geeksforgeeks.org/largest-palindromic-number-in-an-array/).
+19. [Count distinct elements in an array](https://www.geeksforgeeks.org/count-distinct-elements-in-an-array/).
+20. [Program to check if two strings are same or not](https://www.geeksforgeeks.org/program-to-check-if-two-strings-are-same-or-not/)
+21. [Count common elements in two arrays which are in Arithmetic Progression](https://www.geeksforgeeks.org/count-common-elements-in-two-arrays-which-are-in-arithmetic-progression/).
+22. [SQL Query to Find the Average Value in a Column](https://www.geeksforgeeks.org/sql-query-to-find-the-average-value-in-a-column/).
+23. [Find uncommon characters of the two strings](https://www.geeksforgeeks.org/find-uncommon-characters-two-strings/).
+24. [Python - Accessing Items in Lists Within Dictionary](https://www.geeksforgeeks.org/python-accessing-items-in-lists-within-dictionary/)
+25. [Concatenated string with uncommon characters in Python](https://www.geeksforgeeks.org/concatenated-string-uncommon-characters-python/).
+26. [Python - Check whether the given List forms Contiguous Distinct Sub-Array or Not](https://www.geeksforgeeks.org/python-check-whether-the-given-list-forms-contiguous-distinct-sub-array-or-not/)
+27. [Python | Introduction to Matplotlib](https://www.geeksforgeeks.org/python-introduction-matplotlib/).
+28. [Perl | qw Operator](https://www.geeksforgeeks.org/perl-qw-operator/).
+29. [Perl | sort() Function](https://www.geeksforgeeks.org/perl-sort-function/).
+30. [Python | Sort words of sentence in ascending order](https://www.geeksforgeeks.org/python-sort-words-sentence-ascending-order/).
+31. [Program for Armstrong Numbers](https://www.geeksforgeeks.org/program-for-armstrong-numbers/).
+32. ["Hello World" Smart Contract in Remix-IDE](https://www.geeksforgeeks.org/hello-world-smart-contract-in-remix-ide/).
+33. [Visualization of Superhero Characters using Python](https://www.geeksforgeeks.org/visualization-of-superhero-characters-using-python/).
+34. [Data Processing with Pandas](https://www.geeksforgeeks.org/data-processing-with-pandas/).
+35. [Python program to find smallest number in a list](https://www.geeksforgeeks.org/python-program-to-find-smallest-number-in-a-list/)
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
