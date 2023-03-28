@@ -80,7 +80,8 @@
 32. ["Hello World" Smart Contract in Remix-IDE](https://www.geeksforgeeks.org/hello-world-smart-contract-in-remix-ide/).
 33. [Visualization of Superhero Characters using Python](https://www.geeksforgeeks.org/visualization-of-superhero-characters-using-python/).
 34. [Data Processing with Pandas](https://www.geeksforgeeks.org/data-processing-with-pandas/).
-35. [Python program to find smallest number in a list](https://www.geeksforgeeks.org/python-program-to-find-smallest-number-in-a-list/)
+35. [Python program to find smallest number in a list](https://www.geeksforgeeks.org/python-program-to-find-smallest-number-in-a-list/).
+36. [Python Program to Check Even or Odd Number](https://www.geeksforgeeks.org/python-program-to-determine-whether-a-given-number-is-even-or-odd-recursively/)
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
