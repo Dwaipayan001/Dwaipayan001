@@ -84,6 +84,7 @@
 36. [Python Program to Check Even or Odd Number](https://www.geeksforgeeks.org/python-program-to-determine-whether-a-given-number-is-even-or-odd-recursively/)
 37. [Check if the concatenation of first N natural numbers is divisible by 3](https://www.geeksforgeeks.org/check-if-the-concatenation-of-first-n-natural-numbers-is-divisible-by-3/)
 38. [Move all Uppercase char to the end of string](https://www.geeksforgeeks.org/move-all-uppercase-char-to-the-end-of-string/)
+39. [SQL Query to Find Number of Employees According to Gender Whose DOB is Between a Given Range](https://www.geeksforgeeks.org/sql-query-to-find-number-of-employees-according-to-gender-whose-dob-is-between-a-given-range/)
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
