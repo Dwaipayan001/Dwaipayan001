@@ -87,8 +87,9 @@
 40. [Find the sum of the first Nth Icosagonal Numbers](https://www.geeksforgeeks.org/find-the-sum-of-the-first-nth-icosagonal-numbers/).
 41. [Count number of ways to arrange first N numbers](https://www.geeksforgeeks.org/count-number-of-ways-to-arrange-first-n-numbers/)
 
---In April (42-)--
+--In April (42-)-- <br/>
 42. [IP security (IPSec)](https://www.geeksforgeeks.org/ip-security-ipsec/)
+43. [Python program to check if lowercase letters exist in a string](https://www.geeksforgeeks.org/python-program-to-check-if-lowercase-letters-exist-in-a-string/)
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
