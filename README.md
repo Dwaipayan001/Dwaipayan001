@@ -90,7 +90,8 @@
 --In April (42-)-- <br/>
 42. [IP security (IPSec)](https://www.geeksforgeeks.org/ip-security-ipsec/) <br/>
 43. [Python program to check if lowercase letters exist in a string](https://www.geeksforgeeks.org/python-program-to-check-if-lowercase-letters-exist-in-a-string/). <br/>
-44. [Python Set isdisjoint() Method](https://www.geeksforgeeks.org/python-set-isdisjoint-method/)
+44. [Python Set isdisjoint() Method](https://www.geeksforgeeks.org/python-set-isdisjoint-method/) <br/>
+45. [Program to display all alphabets from A to Z in uppercase and lowercase both](https://www.geeksforgeeks.org/program-to-display-all-alphabets-from-a-to-z-in-uppercase-and-lowercase-both/)
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
