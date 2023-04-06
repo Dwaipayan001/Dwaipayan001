@@ -94,6 +94,7 @@
 45. [Program to display all alphabets from A to Z in uppercase and lowercase both](https://www.geeksforgeeks.org/program-to-display-all-alphabets-from-a-to-z-in-uppercase-and-lowercase-both/) <br/>
 46. [How to run Python code on Google Colaboratory](https://www.geeksforgeeks.org/how-to-run-python-code-on-google-colaboratory/) <br/>
 47. [Python program to convert ASCII to Binary](https://www.geeksforgeeks.org/python-program-to-convert-ascii-to-binary/)
+48. [Number of times the largest perfect square number can be subtracted from N](https://www.geeksforgeeks.org/number-of-times-the-largest-perfect-square-number-can-be-subtracted-from-n/)
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
