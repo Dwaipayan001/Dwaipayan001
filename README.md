@@ -100,6 +100,7 @@
 51. [Python program to convert integer to roman](https://www.geeksforgeeks.org/python-program-to-convert-integer-to-roman/) <br/>
 52. Largest palindromic number in an array [Again] <br/>
 53. [How to convert given number to a character array](https://www.geeksforgeeks.org/how-to-convert-given-number-to-a-character-array/)
+54. [Python program to convert a byte string to a list of integers](https://www.geeksforgeeks.org/python-program-to-convert-a-byte-string-to-a-list-of-integers/).
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
