@@ -108,7 +108,7 @@
 53. [How to convert given number to a character array](https://www.geeksforgeeks.org/how-to-convert-given-number-to-a-character-array/) <br/>
 54. [Python program to convert a byte string to a list of integers](https://www.geeksforgeeks.org/python-program-to-convert-a-byte-string-to-a-list-of-integers/). <br/>
 55. [Python Program For Converting Roman Numerals To Decimal Lying Between 1 to 3999](https://www.geeksforgeeks.org/python-program-for-converting-roman-numerals-to-decimal-lying-between-1-to-3999/) <br/>
-56. [JavaScript Math exp() Method](https://www.geeksforgeeks.org/javascript-math-e-function/)
+56. [JavaScript Math exp() Method](https://www.geeksforgeeks.org/javascript-math-e-function/) <br/>
 57. [Python - Create list of tuples using for loop](https://www.geeksforgeeks.org/python-create-list-of-tuples-using-for-loop/)
 
 <!---
