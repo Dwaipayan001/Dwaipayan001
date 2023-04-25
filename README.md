@@ -110,6 +110,7 @@
 55. [Python Program For Converting Roman Numerals To Decimal Lying Between 1 to 3999](https://www.geeksforgeeks.org/python-program-for-converting-roman-numerals-to-decimal-lying-between-1-to-3999/) <br/>
 56. [JavaScript Math exp() Method](https://www.geeksforgeeks.org/javascript-math-e-function/) <br/>
 57. [Python - Create list of tuples using for loop](https://www.geeksforgeeks.org/python-create-list-of-tuples-using-for-loop/)
+58. [Program for EMI Calculator](https://www.geeksforgeeks.org/program-emi-calculator/)
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
