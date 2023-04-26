@@ -43,8 +43,9 @@
 33. [Perl | Switch Case ](https://www.geeksforgeeks.org/perl-switch-case/). <br/>
 
 --IN APRIL--
-34. [Create a Simple Sentiment Analysis WebApp using Streamlit](https://www.geeksforgeeks.org/create-a-simple-sentiment-analysis-webapp-using-streamlit/).
-35. [Introduction to NiceGUI - A Python based UI framework](https://www.geeksforgeeks.org/introduction-to-nicegui-a-python-based-ui-framework/)
+34. [Create a Simple Sentiment Analysis WebApp using Streamlit](https://www.geeksforgeeks.org/create-a-simple-sentiment-analysis-webapp-using-streamlit/). <br/>
+35. [Introduction to NiceGUI - A Python based UI framework](https://www.geeksforgeeks.org/introduction-to-nicegui-a-python-based-ui-framework/) <br/>
+36. [Julia - Working with Matplotlib's Pyplot Class](https://www.geeksforgeeks.org/julia-working-with-matplotlibs-pyplot-class/) <br/>
 
 
 
@@ -109,8 +110,8 @@
 54. [Python program to convert a byte string to a list of integers](https://www.geeksforgeeks.org/python-program-to-convert-a-byte-string-to-a-list-of-integers/). <br/>
 55. [Python Program For Converting Roman Numerals To Decimal Lying Between 1 to 3999](https://www.geeksforgeeks.org/python-program-for-converting-roman-numerals-to-decimal-lying-between-1-to-3999/) <br/>
 56. [JavaScript Math exp() Method](https://www.geeksforgeeks.org/javascript-math-e-function/) <br/>
-57. [Python - Create list of tuples using for loop](https://www.geeksforgeeks.org/python-create-list-of-tuples-using-for-loop/)
-58. [Program for EMI Calculator](https://www.geeksforgeeks.org/program-emi-calculator/)
+57. [Python - Create list of tuples using for loop](https://www.geeksforgeeks.org/python-create-list-of-tuples-using-for-loop/) <br/>
+58. [Program for EMI Calculator](https://www.geeksforgeeks.org/program-emi-calculator/) <br/>
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
