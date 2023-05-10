@@ -115,6 +115,7 @@
 --IN MAY-- <br/>
 60. [Python | Merging two list of dictionaries](https://www.geeksforgeeks.org/python-merging-two-list-of-dictionaries/) <br/>
 61. [Check if the sum of digits of a number N divides it](https://www.geeksforgeeks.org/check-if-the-sum-of-digits-of-a-number-n-divides-it/) <br/>
+62. [Python Program for Find remainder of array multiplication divided by n](https://www.geeksforgeeks.org/python-program-for-find-reminder-of-array-multiplication-divided-by-n/) <br/>
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
