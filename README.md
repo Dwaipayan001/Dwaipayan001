@@ -44,10 +44,10 @@
 34. [Create a Simple Sentiment Analysis WebApp using Streamlit](https://www.geeksforgeeks.org/create-a-simple-sentiment-analysis-webapp-using-streamlit/). <br/>
 35. [Introduction to NiceGUI - A Python based UI framework](https://www.geeksforgeeks.org/introduction-to-nicegui-a-python-based-ui-framework/) <br/>
 36. [Julia - Working with Matplotlib's Pyplot Class](https://www.geeksforgeeks.org/julia-working-with-matplotlibs-pyplot-class/) <br/>
-
--- IN MAY -- <br/>
 37. [Disadvantages of File Systems](https://www.geeksforgeeks.org/disadvantages-of-file-systems/) <br/>
 38. [What is the difference between DOM and BOM ?](https://www.geeksforgeeks.org/what-is-the-difference-between-dom-and-bom/) <br/>
+
+<--JUNE-->
 
 
 
@@ -113,12 +113,14 @@
 57. [Python - Create list of tuples using for loop](https://www.geeksforgeeks.org/python-create-list-of-tuples-using-for-loop/) <br/>
 58. [Program for EMI Calculator](https://www.geeksforgeeks.org/program-emi-calculator/) <br/>
 59. [Perl | String Operators](https://www.geeksforgeeks.org/perl-string-operators/) <br/>
-
---IN MAY-- <br/>
 60. [Python | Merging two list of dictionaries](https://www.geeksforgeeks.org/python-merging-two-list-of-dictionaries/) <br/>
 61. [Check if the sum of digits of a number N divides it](https://www.geeksforgeeks.org/check-if-the-sum-of-digits-of-a-number-n-divides-it/) <br/>
 62. [Python Program for Find remainder of array multiplication divided by n](https://www.geeksforgeeks.org/python-program-for-find-reminder-of-array-multiplication-divided-by-n/) <br/>
-63. [Python | Get unique values from a list](https://www.geeksforgeeks.org/python-get-unique-values-list/)
+63. [Python | Get unique values from a list](https://www.geeksforgeeks.org/python-get-unique-values-list/) <br/>
+
+<--JUNE-->
+64. [Random Access Memory (RAM)](https://www.geeksforgeeks.org/random-access-memory-ram/) <br/>
+65. [Save a Document in Microsoft Word](https://www.geeksforgeeks.org/save-a-document-in-microsoft-word/) <br/>
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
