@@ -48,6 +48,7 @@
 38. [What is the difference between DOM and BOM ?](https://www.geeksforgeeks.org/what-is-the-difference-between-dom-and-bom/) <br/>
 
 <--JUNE-->
+39. [Sum of two columns in openpyxl and result in a new column](https://www.geeksforgeeks.org/sum-of-two-columns-in-openpyxl-and-result-in-a-new-column)
 
 
 
