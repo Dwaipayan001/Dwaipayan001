@@ -49,6 +49,7 @@
 
 <--JUNE-->
 39. [Sum of two columns in openpyxl and result in a new column](https://www.geeksforgeeks.org/sum-of-two-columns-in-openpyxl-and-result-in-a-new-column)
+40. [Return True if Cast Between Data Types can Occur According to the Casting rule in Python](https://www.geeksforgeeks.org/return-true-if-cast-between-data-types-can-occur-according-to-the-casting-rule-in-python/)
 
 
 
