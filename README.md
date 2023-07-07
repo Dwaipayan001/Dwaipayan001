@@ -46,9 +46,7 @@
 36. [Julia - Working with Matplotlib's Pyplot Class](https://www.geeksforgeeks.org/julia-working-with-matplotlibs-pyplot-class/) <br/>
 37. [Disadvantages of File Systems](https://www.geeksforgeeks.org/disadvantages-of-file-systems/) <br/>
 38. [What is the difference between DOM and BOM ?](https://www.geeksforgeeks.org/what-is-the-difference-between-dom-and-bom/) <br/>
-
-<--JUNE-->
-39. [Sum of two columns in openpyxl and result in a new column](https://www.geeksforgeeks.org/sum-of-two-columns-in-openpyxl-and-result-in-a-new-column)
+39. [Sum of two columns in openpyxl and result in a new column](https://www.geeksforgeeks.org/sum-of-two-columns-in-openpyxl-and-result-in-a-new-column) <br/>
 40. [Return True if Cast Between Data Types can Occur According to the Casting rule in Python](https://www.geeksforgeeks.org/return-true-if-cast-between-data-types-can-occur-according-to-the-casting-rule-in-python/)
 
 
@@ -119,10 +117,14 @@
 61. [Check if the sum of digits of a number N divides it](https://www.geeksforgeeks.org/check-if-the-sum-of-digits-of-a-number-n-divides-it/) <br/>
 62. [Python Program for Find remainder of array multiplication divided by n](https://www.geeksforgeeks.org/python-program-for-find-reminder-of-array-multiplication-divided-by-n/) <br/>
 63. [Python | Get unique values from a list](https://www.geeksforgeeks.org/python-get-unique-values-list/) <br/>
-
-<--JUNE-->
 64. [Random Access Memory (RAM)](https://www.geeksforgeeks.org/random-access-memory-ram/) <br/>
 65. [Save a Document in Microsoft Word](https://www.geeksforgeeks.org/save-a-document-in-microsoft-word/) <br/>
+
+<--JULY--> </br>
+66. [Find the sum of the first N Centered heptagonal number](https://www.geeksforgeeks.org/find-the-sum-of-the-first-n-centered-heptagonal-number/) <br/>
+67. [Find N % 4 (Remainder with 4) for a large value of N](https://www.geeksforgeeks.org/find-n-4-remainder-with-4-for-a-large-value-of-n/) <br/>
+68. [Count of sub-strings of length n possible from the given string](https://www.geeksforgeeks.org/count-of-sub-strings-of-length-n-possible-from-the-given-string/) <br/>
+69. [Python Program to Check if a Number is Odd or Even](https://www.geeksforgeeks.org/python-program-to-check-if-a-number-is-odd-or-even/) <br/>
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
