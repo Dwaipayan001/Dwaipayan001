@@ -126,7 +126,8 @@
 68. [Count of sub-strings of length n possible from the given string](https://www.geeksforgeeks.org/count-of-sub-strings-of-length-n-possible-from-the-given-string/) <br/>
 69. [Python Program to Check if a Number is Odd or Even](https://www.geeksforgeeks.org/python-program-to-check-if-a-number-is-odd-or-even/) <br/>
 70. [Largest square which can be formed using given rectangular blocks](https://www.geeksforgeeks.org/largest-square-which-can-be-formed-using-given-rectangular-blocks/) <br/>
-71. [Find the next greater element in a Circular Array](https://www.geeksforgeeks.org/find-the-next-greater-element-in-a-circular-array/)
+71. [Find the next greater element in a Circular Array](https://www.geeksforgeeks.org/find-the-next-greater-element-in-a-circular-array/) <br/>
+72. [Mobile Numeric Keypad Problem](https://www.geeksforgeeks.org/mobile-numeric-keypad-problem/)
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
