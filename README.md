@@ -128,7 +128,10 @@
 70. [Largest square which can be formed using given rectangular blocks](https://www.geeksforgeeks.org/largest-square-which-can-be-formed-using-given-rectangular-blocks/) <br/>
 71. [Find the next greater element in a Circular Array](https://www.geeksforgeeks.org/find-the-next-greater-element-in-a-circular-array/) <br/>
 72. [Mobile Numeric Keypad Problem](https://www.geeksforgeeks.org/mobile-numeric-keypad-problem/) <br/>
-73. [Check if a given number divides the sum of the factorials of its digits](https://www.geeksforgeeks.org/check-if-a-given-number-divides-the-sum-of-the-factorials-of-its-digits/)
+73. [Check if a given number divides the sum of the factorials of its digits](https://www.geeksforgeeks.org/check-if-a-given-number-divides-the-sum-of-the-factorials-of-its-digits/) <br/>
+74. [Program to convert Degree to Radian](https://www.geeksforgeeks.org/program-to-convert-degree-to-radian/) <br/>
+75. [Noisy Channels Protocols](https://www.geeksforgeeks.org/noisy-channels-protocols/) <br/>
+76. [Sum of degrees of all nodes of a undirected graph](https://www.geeksforgeeks.org/sum-of-degrees-of-all-nodes-of-a-undirected-graph/) <br/>
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
