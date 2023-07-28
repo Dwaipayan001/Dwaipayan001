@@ -135,6 +135,7 @@
 77. [Perform n steps to convert every digit of a number in the format count digit](https://www.geeksforgeeks.org/perform-n-steps-to-convert-every-digit-of-a-number-in-the-format-countdigit/) <br/>
 78. [Check whether a given Number is Power-Isolated or not](https://www.geeksforgeeks.org/check-whether-a-given-number-is-power-isolated-or-not/) <br/>
 79. [Count of pairs whose bitwise AND is a power of 2](https://www.geeksforgeeks.org/count-of-pairs-whose-bitwise-and-is-a-power-of-2/) <br/>
+80. [Count all prime numbers in a given range whose sum of digits is also prime](https://www.geeksforgeeks.org/count-all-prime-numbers-in-a-given-range-whose-sum-of-digits-is-also-prime/) <br/>
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
