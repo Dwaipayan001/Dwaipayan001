@@ -136,6 +136,7 @@
 78. [Check whether a given Number is Power-Isolated or not](https://www.geeksforgeeks.org/check-whether-a-given-number-is-power-isolated-or-not/) <br/>
 79. [Count of pairs whose bitwise AND is a power of 2](https://www.geeksforgeeks.org/count-of-pairs-whose-bitwise-and-is-a-power-of-2/) <br/>
 80. [Count all prime numbers in a given range whose sum of digits is also prime](https://www.geeksforgeeks.org/count-all-prime-numbers-in-a-given-range-whose-sum-of-digits-is-also-prime/) <br/>
+81. [Minimum in an array which is first decreasing then increasing](https://www.geeksforgeeks.org/minimum-in-an-array-which-is-first-decreasing-then-increasing/) </br>
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
