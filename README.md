@@ -119,8 +119,6 @@
 63. [Python | Get unique values from a list](https://www.geeksforgeeks.org/python-get-unique-values-list/) <br/>
 64. [Random Access Memory (RAM)](https://www.geeksforgeeks.org/random-access-memory-ram/) <br/>
 65. [Save a Document in Microsoft Word](https://www.geeksforgeeks.org/save-a-document-in-microsoft-word/) <br/>
-
-<--JULY--> </br>
 66. [Find the sum of the first N Centered heptagonal number](https://www.geeksforgeeks.org/find-the-sum-of-the-first-n-centered-heptagonal-number/) <br/>
 67. [Find N % 4 (Remainder with 4) for a large value of N](https://www.geeksforgeeks.org/find-n-4-remainder-with-4-for-a-large-value-of-n/) <br/>
 68. [Count of sub-strings of length n possible from the given string](https://www.geeksforgeeks.org/count-of-sub-strings-of-length-n-possible-from-the-given-string/) <br/>
@@ -137,6 +135,11 @@
 79. [Count of pairs whose bitwise AND is a power of 2](https://www.geeksforgeeks.org/count-of-pairs-whose-bitwise-and-is-a-power-of-2/) <br/>
 80. [Count all prime numbers in a given range whose sum of digits is also prime](https://www.geeksforgeeks.org/count-all-prime-numbers-in-a-given-range-whose-sum-of-digits-is-also-prime/) <br/>
 81. [Minimum in an array which is first decreasing then increasing](https://www.geeksforgeeks.org/minimum-in-an-array-which-is-first-decreasing-then-increasing/) </br>
+
+<AUGUST> </br>
+82. [Sort 1 to N by swapping adjacent elements](https://www.geeksforgeeks.org/sort-1-n-swapping-adjacent-elements/) </br>
+83. [Program to Print Alphabets From A to Z Using Loop](https://www.geeksforgeeks.org/program-to-print-alphabets-from-a-to-z-using-loop/) </br>
+84. [Print array after it is right rotated K times](https://www.geeksforgeeks.org/print-array-after-it-is-right-rotated-k-times/) </br>
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
