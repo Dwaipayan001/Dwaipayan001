@@ -142,6 +142,7 @@
 84. [Print array after it is right rotated K times](https://www.geeksforgeeks.org/print-array-after-it-is-right-rotated-k-times/) </br>
 85. [Print all the sub diagonal elements of the given square matrix](https://www.geeksforgeeks.org/print-all-the-sub-diagonal-elements-of-the-given-square-matrix/) </br>
 86. [Primitive Abundant Number](https://www.geeksforgeeks.org/primitive-abundant-number/) </br>
+87. [Divide array into two parts with equal sum according to the given constraints](https://www.geeksforgeeks.org/divide-array-into-two-parts-with-equal-sum-according-to-the-given-constraints/)
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
