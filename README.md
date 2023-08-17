@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Dwaipayan Bandyopadhyay
 ### 👀 I’m interested in Machine Learning, AI, Data Science, Data Analysis etc.
 ### 🌱 I’m currently pursuing B.Tech in Computer Science and Engineering.
-### 📫 You can reach me via linkedIn - https://www.linkedin.com/in/dbandyopadhyay2001/
+### 📫 You can reach me via LinkedIn - https://www.linkedin.com/in/dbandyopadhyay2001/
 ## I am a Technical Content Writer at @GeeksforGeeks. You can find all my published articles listed below.
 
 
@@ -146,6 +146,8 @@
 86. [Primitive Abundant Number](https://www.geeksforgeeks.org/primitive-abundant-number/) </br>
 87. [Divide array into two parts with equal sum according to the given constraints](https://www.geeksforgeeks.org/divide-array-into-two-parts-with-equal-sum-according-to-the-given-constraints/) <br/>
 88. [Mth element after K Right Rotations of an Array](https://www.geeksforgeeks.org/mth-element-after-k-right-rotations-of-an-array/) <br/>
+89. [Smallest prime number in given Range](https://www.geeksforgeeks.org/smallest-prime-number-in-given-range/) <br/>
+90. [Reverse words in a given string](https://www.geeksforgeeks.org/reverse-words-in-a-given-string/)
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
