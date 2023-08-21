@@ -147,7 +147,9 @@
 87. [Divide array into two parts with equal sum according to the given constraints](https://www.geeksforgeeks.org/divide-array-into-two-parts-with-equal-sum-according-to-the-given-constraints/) <br/>
 88. [Mth element after K Right Rotations of an Array](https://www.geeksforgeeks.org/mth-element-after-k-right-rotations-of-an-array/) <br/>
 89. [Smallest prime number in given Range](https://www.geeksforgeeks.org/smallest-prime-number-in-given-range/) <br/>
-90. [Reverse words in a given string](https://www.geeksforgeeks.org/reverse-words-in-a-given-string/)
+90. [Reverse words in a given string](https://www.geeksforgeeks.org/reverse-words-in-a-given-string/) <br/>
+91. [How to set the order in subnodes of a tree structure?](https://www.geeksforgeeks.org/how-to-set-the-order-in-subnodes-of-a-tree-structure/) <br/>
+92. [Find sum of Modulo Power till Y](https://www.geeksforgeeks.org/find-sum-of-modulo-power-till-y/)
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
