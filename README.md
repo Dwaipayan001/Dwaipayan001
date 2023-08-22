@@ -149,7 +149,8 @@
 89. [Smallest prime number in given Range](https://www.geeksforgeeks.org/smallest-prime-number-in-given-range/) <br/>
 90. [Reverse words in a given string](https://www.geeksforgeeks.org/reverse-words-in-a-given-string/) <br/>
 91. [How to set the order in subnodes of a tree structure?](https://www.geeksforgeeks.org/how-to-set-the-order-in-subnodes-of-a-tree-structure/) <br/>
-92. [Find sum of Modulo Power till Y](https://www.geeksforgeeks.org/find-sum-of-modulo-power-till-y/)
+92. [Find sum of Modulo Power till Y](https://www.geeksforgeeks.org/find-sum-of-modulo-power-till-y/) <br/>
+93. [Minimum cost to make the String palindrome using ASCII values](https://www.geeksforgeeks.org/minimum-cost-to-make-the-string-palindrome-using-ascii-values/)
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
