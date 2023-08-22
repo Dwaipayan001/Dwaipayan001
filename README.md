@@ -150,7 +150,9 @@
 90. [Reverse words in a given string](https://www.geeksforgeeks.org/reverse-words-in-a-given-string/) <br/>
 91. [How to set the order in subnodes of a tree structure?](https://www.geeksforgeeks.org/how-to-set-the-order-in-subnodes-of-a-tree-structure/) <br/>
 92. [Find sum of Modulo Power till Y](https://www.geeksforgeeks.org/find-sum-of-modulo-power-till-y/) <br/>
-93. [Minimum cost to make the String palindrome using ASCII values](https://www.geeksforgeeks.org/minimum-cost-to-make-the-string-palindrome-using-ascii-values/)
+93. [Minimum cost to make the String palindrome using ASCII values](https://www.geeksforgeeks.org/minimum-cost-to-make-the-string-palindrome-using-ascii-values/) <br/>
+94. [Max of two numbers without conditional statements, ternary operator or relational operators](https://www.geeksforgeeks.org/a-function-to-find-the-greater-number-among-2-integers-without-using-any-conditional-statements-the-ternary-operator-or-relational-operators/) <br/>
+95. [Inorder Tree Traversal without Recursion](https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion/)
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
