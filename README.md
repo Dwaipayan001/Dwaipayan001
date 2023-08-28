@@ -154,6 +154,7 @@
 94. [Max of two numbers without conditional statements, ternary operator or relational operators](https://www.geeksforgeeks.org/a-function-to-find-the-greater-number-among-2-integers-without-using-any-conditional-statements-the-ternary-operator-or-relational-operators/) <br/>
 95. [Inorder Tree Traversal without Recursion](https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion/) <br/>
 96. [Find duplicates in an Array with values 1 to N using counting sort](https://www.geeksforgeeks.org/find-duplicates-in-an-array-with-values-1-to-n-using-counting-sort/) <br/>
+97. [Ascending insertion of elements in graph](https://www.geeksforgeeks.org/ascending-insertion-of-elements-in-graph/) <br/>
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
