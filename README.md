@@ -47,8 +47,10 @@
 37. [Disadvantages of File Systems](https://www.geeksforgeeks.org/disadvantages-of-file-systems/) <br/>
 38. [What is the difference between DOM and BOM ?](https://www.geeksforgeeks.org/what-is-the-difference-between-dom-and-bom/) <br/>
 39. [Sum of two columns in openpyxl and result in a new column](https://www.geeksforgeeks.org/sum-of-two-columns-in-openpyxl-and-result-in-a-new-column) <br/>
-40. [Return True if Cast Between Data Types can Occur According to the Casting rule in Python](https://www.geeksforgeeks.org/return-true-if-cast-between-data-types-can-occur-according-to-the-casting-rule-in-python/) <br/> <--AUGUST--> <br/>
-41. [Julia - RCall](https://www.geeksforgeeks.org/julia-rcall)
+40. [Return True if Cast Between Data Types can Occur According to the Casting rule in Python](https://www.geeksforgeeks.org/return-true-if-cast-between-data-types-can-occur-according-to-the-casting-rule-in-python/) <br/>
+41. [Julia - RCall](https://www.geeksforgeeks.org/julia-rcall) <br/>
+
+<--SEPTEMBER-->
 
 
 
@@ -137,8 +139,6 @@
 79. [Count of pairs whose bitwise AND is a power of 2](https://www.geeksforgeeks.org/count-of-pairs-whose-bitwise-and-is-a-power-of-2/) <br/>
 80. [Count all prime numbers in a given range whose sum of digits is also prime](https://www.geeksforgeeks.org/count-all-prime-numbers-in-a-given-range-whose-sum-of-digits-is-also-prime/) <br/>
 81. [Minimum in an array which is first decreasing then increasing](https://www.geeksforgeeks.org/minimum-in-an-array-which-is-first-decreasing-then-increasing/) </br>
-
-<--AUGUST--> </br>
 82. [Sort 1 to N by swapping adjacent elements](https://www.geeksforgeeks.org/sort-1-n-swapping-adjacent-elements/) </br>
 83. [Program to Print Alphabets From A to Z Using Loop](https://www.geeksforgeeks.org/program-to-print-alphabets-from-a-to-z-using-loop/) </br>
 84. [Print array after it is right rotated K times](https://www.geeksforgeeks.org/print-array-after-it-is-right-rotated-k-times/) </br>
@@ -155,6 +155,8 @@
 95. [Inorder Tree Traversal without Recursion](https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion/) <br/>
 96. [Find duplicates in an Array with values 1 to N using counting sort](https://www.geeksforgeeks.org/find-duplicates-in-an-array-with-values-1-to-n-using-counting-sort/) <br/>
 97. [Ascending insertion of elements in graph](https://www.geeksforgeeks.org/ascending-insertion-of-elements-in-graph/) <br/>
+
+<---SEPTEMBER--> <br/>
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
