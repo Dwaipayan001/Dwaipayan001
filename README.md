@@ -158,6 +158,7 @@
 97. [Ascending insertion of elements in graph](https://www.geeksforgeeks.org/ascending-insertion-of-elements-in-graph/) <br/>
 
 <---SEPTEMBER--> <br/>
+98. [Count Distinct ( Unique ) elements in an array](https://www.geeksforgeeks.org/count-distinct-elements-in-an-array/) <br/>
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
