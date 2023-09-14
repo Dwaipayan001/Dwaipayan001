@@ -161,6 +161,7 @@
 
 <---SEPTEMBER--> <br/>
 98. [Count Distinct ( Unique ) elements in an array](https://www.geeksforgeeks.org/count-distinct-elements-in-an-array/) <br/>
+99. [Length of the longest subarray whose Bitwise XOR is K](https://www.geeksforgeeks.org/length-of-the-longest-subarray-whose-bitwise-xor-is-k/) <br/>
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
