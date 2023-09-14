@@ -55,6 +55,7 @@
 43. [Dwarf vs. Midget](https://www.geeksforgeeks.org/dwarf-vs-midget/) <br/>
 44. [Network Layer in OSI Model](https://www.geeksforgeeks.org/network-layer-in-osi-model/) </br>
 45. [What is NAND Gate?](https://www.geeksforgeeks.org/what-is-nand-gate/) </br>
+46. [Large-Scale Industries | Characteristics, Types, Advantages and Disadvantages](https://www.geeksforgeeks.org/large-scale-industries-characteristics-types-advantages-and-disadvantages/) </br>
 
 
 
@@ -162,6 +163,7 @@
 <---SEPTEMBER--> <br/>
 98. [Count Distinct ( Unique ) elements in an array](https://www.geeksforgeeks.org/count-distinct-elements-in-an-array/) <br/>
 99. [Length of the longest subarray whose Bitwise XOR is K](https://www.geeksforgeeks.org/length-of-the-longest-subarray-whose-bitwise-xor-is-k/) <br/>
+100. [Print X array elements closest to the Kth smallest element in the array](https://www.geeksforgeeks.org/print-x-array-elements-closest-to-the-kth-smallest-element-in-the-array/)
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
