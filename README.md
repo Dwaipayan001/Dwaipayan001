@@ -169,6 +169,9 @@
 103. [Find product of prime numbers between 1 to n](https://www.geeksforgeeks.org/find-product-prime-numbers-1-n/) </br>
 104. [Count Zero filled Subarrays in a Binary Linked list](https://www.geeksforgeeks.org/count-zero-filled-subarrays-in-a-binary-linked-list/) <br/>
 105. [Minimize cost to move from [0, 0] to [N-1, M-1] using given orthogonal and diagonal moves](https://www.geeksforgeeks.org/minimize-cost-to-move-from-0-0-to-n-1-m-1-using-given-orthogonal-and-diagonal-moves/) <br/>
+106. [Maximize point to reduce Array by replacing Subarray with its sum]<br/>
+107.[Sum of degrees of all nodes of a undirected graph] <br/>
+108.[Minimum number of given powers of 2 required to represent a number]
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
