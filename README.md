@@ -168,6 +168,7 @@
 102. [Find the Nth term of the series where each term f[i] = f[i - 1] - f[i - 2]](https://www.geeksforgeeks.org/find-the-nth-term-of-the-series-where-each-term-fi-fi-1-fi-2/)</br>
 103. [Find product of prime numbers between 1 to n](https://www.geeksforgeeks.org/find-product-prime-numbers-1-n/) </br>
 104. [Count Zero filled Subarrays in a Binary Linked list](https://www.geeksforgeeks.org/count-zero-filled-subarrays-in-a-binary-linked-list/) <br/>
+105. [Minimize cost to move from [0, 0] to [N-1, M-1] using given orthogonal and diagonal moves](https://www.geeksforgeeks.org/minimize-cost-to-move-from-0-0-to-n-1-m-1-using-given-orthogonal-and-diagonal-moves/) <br/>
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
