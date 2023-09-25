@@ -56,6 +56,7 @@
 44. [Network Layer in OSI Model](https://www.geeksforgeeks.org/network-layer-in-osi-model/) </br>
 45. [What is NAND Gate?](https://www.geeksforgeeks.org/what-is-nand-gate/) </br>
 46. [Large-Scale Industries | Characteristics, Types, Advantages and Disadvantages](https://www.geeksforgeeks.org/large-scale-industries-characteristics-types-advantages-and-disadvantages/) </br>
+47. [How to Optimize Jupyter Notebook Performance ?](https://www.geeksforgeeks.org/how-to-optimize-jupyter-notebook-performance/)
 
 
 
