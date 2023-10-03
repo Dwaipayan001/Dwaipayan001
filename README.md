@@ -49,14 +49,14 @@
 39. [Sum of two columns in openpyxl and result in a new column](https://www.geeksforgeeks.org/sum-of-two-columns-in-openpyxl-and-result-in-a-new-column) <br/>
 40. [Return True if Cast Between Data Types can Occur According to the Casting rule in Python](https://www.geeksforgeeks.org/return-true-if-cast-between-data-types-can-occur-according-to-the-casting-rule-in-python/) <br/>
 41. [Julia - RCall](https://www.geeksforgeeks.org/julia-rcall) <br/>
-
-<--SEPTEMBER--> <br/>
 42. [Single Level Directory in OS](https://www.geeksforgeeks.org/single-level-directory-in-os/) <br/>
 43. [Dwarf vs. Midget](https://www.geeksforgeeks.org/dwarf-vs-midget/) <br/>
 44. [Network Layer in OSI Model](https://www.geeksforgeeks.org/network-layer-in-osi-model/) </br>
 45. [What is NAND Gate?](https://www.geeksforgeeks.org/what-is-nand-gate/) </br>
 46. [Large-Scale Industries | Characteristics, Types, Advantages and Disadvantages](https://www.geeksforgeeks.org/large-scale-industries-characteristics-types-advantages-and-disadvantages/) </br>
-47. [How to Optimize Jupyter Notebook Performance ?](https://www.geeksforgeeks.org/how-to-optimize-jupyter-notebook-performance/)
+47. [How to Optimize Jupyter Notebook Performance ?](https://www.geeksforgeeks.org/how-to-optimize-jupyter-notebook-performance/) <br/>
+
+<--OCTOBER--> <br/>
 
 
 
@@ -160,8 +160,6 @@
 95. [Inorder Tree Traversal without Recursion](https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion/) <br/>
 96. [Find duplicates in an Array with values 1 to N using counting sort](https://www.geeksforgeeks.org/find-duplicates-in-an-array-with-values-1-to-n-using-counting-sort/) <br/>
 97. [Ascending insertion of elements in graph](https://www.geeksforgeeks.org/ascending-insertion-of-elements-in-graph/) <br/>
-
-<---SEPTEMBER--> <br/>
 98. [Count Distinct ( Unique ) elements in an array](https://www.geeksforgeeks.org/count-distinct-elements-in-an-array/) <br/>
 99. [Length of the longest subarray whose Bitwise XOR is K](https://www.geeksforgeeks.org/length-of-the-longest-subarray-whose-bitwise-xor-is-k/) <br/>
 100. [Print X array elements closest to the Kth smallest element in the array](https://www.geeksforgeeks.org/print-x-array-elements-closest-to-the-kth-smallest-element-in-the-array/) <br/>
@@ -173,6 +171,11 @@
 106. [Maximize point to reduce Array by replacing Subarray with its sum](https://www.geeksforgeeks.org/maximize-point-to-reduce-array-by-replacing-subarray-with-its-sum/)<br/>
 107. [Minimum number of given powers of 2 required to represent a number](https://www.geeksforgeeks.org/minimum-number-of-given-powers-of-2-required-to-represent-a-number/)<br/>
 108. [Check if one string can be converted to other using given operation](https://www.geeksforgeeks.org/check-if-one-string-can-be-converted-to-other-using-given-operation/) <br/>
+
+<--OCTOBER--> <br/>
+109. [Maximum path sum in the given arrays with at most K jumps](https://www.geeksforgeeks.org/maximum-path-sum-in-the-given-arrays-with-at-most-k-jumps/) <br/>
+110. [Alien Dictionary](https://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/) <br/>
+
 
 <!---
 Dwaipayan001/Dwaipayan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
