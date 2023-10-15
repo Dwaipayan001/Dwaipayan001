@@ -178,6 +178,10 @@
 109. [Maximum path sum in the given arrays with at most K jumps](https://www.geeksforgeeks.org/maximum-path-sum-in-the-given-arrays-with-at-most-k-jumps/) <br/>
 110. [Alien Dictionary](https://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/) <br/>
 111. [Count of possible permutations of a number represented as a sum of 2's, 4's and 6's only](https://www.geeksforgeeks.org/count-of-possible-permutations-of-a-number-represented-as-a-sum-of-2s-4s-and-6s-only/) <br/>
+112. [Change the given string according to the given conditions](https://www.geeksforgeeks.org/change-the-given-string-according-to-the-given-conditions/) <br/>
+113. [Count of distinct possible strings after performing given operations](https://www.geeksforgeeks.org/count-of-distinct-possible-strings-after-performing-given-operations/) <br/>
+114. [Check if two given Rational Numbers are equal or not](https://www.geeksforgeeks.org/check-if-two-given-rational-numbers-are-equal-or-not/) <br/>
+115. [How to add two Hexadecimal numbers?](https://www.geeksforgeeks.org/how-to-add-two-hexadecimal-numbers/)
 
 
 <!---
