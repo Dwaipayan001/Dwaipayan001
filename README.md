@@ -181,7 +181,9 @@
 112. [Change the given string according to the given conditions](https://www.geeksforgeeks.org/change-the-given-string-according-to-the-given-conditions/) <br/>
 113. [Count of distinct possible strings after performing given operations](https://www.geeksforgeeks.org/count-of-distinct-possible-strings-after-performing-given-operations/) <br/>
 114. [Check if two given Rational Numbers are equal or not](https://www.geeksforgeeks.org/check-if-two-given-rational-numbers-are-equal-or-not/) <br/>
-115. [How to add two Hexadecimal numbers?](https://www.geeksforgeeks.org/how-to-add-two-hexadecimal-numbers/)
+115. [How to add two Hexadecimal numbers?](https://www.geeksforgeeks.org/how-to-add-two-hexadecimal-numbers/) <br/>
+116. [Find the size of the final imaginary Array after removing the balls](https://www.geeksforgeeks.org/find-the-size-of-the-final-imaginary-array-after-removing-the-balls/) <br/>
+117. [Pair with given product | Set 1 (Find if any pair exists)](https://www.geeksforgeeks.org/pair-with-given-product-set-1-find-if-any-pair-exists/) <br/>
 
 
 <!---
