@@ -59,6 +59,7 @@
 <--OCTOBER--> <br/>
 48. [What is CIFS (Common Internet File System)?](https://www.geeksforgeeks.org/what-is-cifs-common-internet-file-system/) <br/>
 49. [Introduction to JustPy | A Web Framework based on Python](https://www.geeksforgeeks.org/introduction-to-justpy-a-web-framework-based-on-python/) <br/>
+50. [How to update Google Colab's Python version?](https://www.geeksforgeeks.org/how-to-update-google-colabs-python-version/)
 
 
 
