@@ -188,6 +188,7 @@
 115. [How to add two Hexadecimal numbers?](https://www.geeksforgeeks.org/how-to-add-two-hexadecimal-numbers/) <br/>
 116. [Find the size of the final imaginary Array after removing the balls](https://www.geeksforgeeks.org/find-the-size-of-the-final-imaginary-array-after-removing-the-balls/) <br/>
 117. [Pair with given product | Set 1 (Find if any pair exists)](https://www.geeksforgeeks.org/pair-with-given-product-set-1-find-if-any-pair-exists/) <br/>
+118. [Print the elements of given two Binary Trees in sorted order](https://www.geeksforgeeks.org/print-the-elements-of-given-two-binary-trees-in-sorted-order/) <br/>
 
 
 <!---
