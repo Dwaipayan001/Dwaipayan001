@@ -64,6 +64,7 @@
 52. [Selenium Basic Terminology](https://www.geeksforgeeks.org/selenium-basic-terminology/) <br/>
 53. [Selenium Tool Suite](https://www.geeksforgeeks.org/selenium-tool-suite/) <br/>
 54. [Consensus in Hyperledger Fabric](https://www.geeksforgeeks.org/consensus-in-hyperledger-fabric/) </br>
+55. [Techniques for Generating Ideas](https://www.geeksforgeeks.org/techniques-for-generating-ideas/) </br>
 
 
 
