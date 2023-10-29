@@ -193,7 +193,8 @@
 118. [Print the elements of given two Binary Trees in sorted order](https://www.geeksforgeeks.org/print-the-elements-of-given-two-binary-trees-in-sorted-order/) <br/>
 119. [Minimum splits required to convert a number into prime segments](https://www.geeksforgeeks.org/minimum-splits-required-to-convert-a-number-into-prime-segments/) <br/>
 120. [Count number of ways to generate digit K at the end.](https://www.geeksforgeeks.org/count-number-of-ways-to-generate-digit-k-at-the-end/) <br/>
-121. [Print all lexicographical greater permutations of a given string](https://www.geeksforgeeks.org/print-all-lexicographical-greater-permutations-of-a-given-string/)
+121. [Print all lexicographical greater permutations of a given string](https://www.geeksforgeeks.org/print-all-lexicographical-greater-permutations-of-a-given-string/) <br/>
+122. [Given an absolute sorted array and a number K, find the pair whose sum is K](https://www.geeksforgeeks.org/given-an-absolute-sorted-array-and-a-number-k-find-the-pair-whose-sum-is-k/) </br>
 
 
 <!---
