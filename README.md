@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Dwaipayan Bandyopadhyay
-### 👀 I’m interested in Machine Learning, AI, Data Science, Data Analysis etc.
+### 👀 I’m interested in Machine Learning, Generative AI, AI, Quantum Computing, Data Science, Data Analysis etc.
 ### 🌱 I’m currently pursuing B.Tech in Computer Science and Engineering.
-### 📫 You can reach me via LinkedIn - https://www.linkedin.com/in/dbandyopadhyay2001/
-## I am a Technical Content Writer at @GeeksforGeeks. You can find all my published articles listed below.
+### 📫 You can reach me via LinkedIn - [https://www.linkedin.com/in/dbandyopadhyay2001/](https://www.linkedin.com/in/dwaipayan-bandyopadhyay-a2b71b280/)
+### I usually publish articles in [Medium](https://medium.com/@dwaipayanofficial2001) now
+## I am a Generative AI Engineer at EY and also an Ex-Technical Content Writer at @GeeksforGeeks. You can find all my published articles listed below.
 
 
 # My Published Articles (Till Now....) -
@@ -55,8 +56,6 @@
 45. [What is NAND Gate?](https://www.geeksforgeeks.org/what-is-nand-gate/) </br>
 46. [Large-Scale Industries | Characteristics, Types, Advantages and Disadvantages](https://www.geeksforgeeks.org/large-scale-industries-characteristics-types-advantages-and-disadvantages/) </br>
 47. [How to Optimize Jupyter Notebook Performance ?](https://www.geeksforgeeks.org/how-to-optimize-jupyter-notebook-performance/) <br/>
-
-<--OCTOBER--> <br/>
 48. [What is CIFS (Common Internet File System)?](https://www.geeksforgeeks.org/what-is-cifs-common-internet-file-system/) <br/>
 49. [Introduction to JustPy | A Web Framework based on Python](https://www.geeksforgeeks.org/introduction-to-justpy-a-web-framework-based-on-python/) <br/>
 50. [How to update Google Colab's Python version?](https://www.geeksforgeeks.org/how-to-update-google-colabs-python-version/) <br/>
@@ -179,8 +178,6 @@
 106. [Maximize point to reduce Array by replacing Subarray with its sum](https://www.geeksforgeeks.org/maximize-point-to-reduce-array-by-replacing-subarray-with-its-sum/)<br/>
 107. [Minimum number of given powers of 2 required to represent a number](https://www.geeksforgeeks.org/minimum-number-of-given-powers-of-2-required-to-represent-a-number/)<br/>
 108. [Check if one string can be converted to other using given operation](https://www.geeksforgeeks.org/check-if-one-string-can-be-converted-to-other-using-given-operation/) <br/>
-
-<--OCTOBER--> <br/>
 109. [Maximum path sum in the given arrays with at most K jumps](https://www.geeksforgeeks.org/maximum-path-sum-in-the-given-arrays-with-at-most-k-jumps/) <br/>
 110. [Alien Dictionary](https://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/) <br/>
 111. [Count of possible permutations of a number represented as a sum of 2's, 4's and 6's only](https://www.geeksforgeeks.org/count-of-possible-permutations-of-a-number-represented-as-a-sum-of-2s-4s-and-6s-only/) <br/>
