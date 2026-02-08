@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Dwaipayan Bandyopadhyay
 ### 👀 I’m interested in Machine Learning, Generative AI, AI, Quantum Computing, Data Science, Data Analysis etc.
-### 🌱 I’m currently pursuing B.Tech in Computer Science and Engineering.
-### 📫 You can reach me via LinkedIn - [https://www.linkedin.com/in/dbandyopadhyay2001/](https://www.linkedin.com/in/dwaipayan-bandyopadhyay-a2b71b280/)
+### 📫 You can reach me via LinkedIn - [https://www.linkedin.com/in/dwaipayan-bandyopadhyay-a2b71b280/](https://www.linkedin.com/in/dwaipayan-bandyopadhyay-a2b71b280/)
 ### I usually publish articles in [Medium](https://medium.com/@dwaipayanofficial2001) now
 ## I am a Generative AI Engineer at EY and also an Ex-Technical Content Writer at @GeeksforGeeks. You can find all my published articles listed below.
 
