@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Dwaipayan Bandyopadhyay
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dwaipayan001&color=brightgreen&style=for-the-badge)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dwaipayan001&show_icons=true&theme=radical&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Dwaipayan001&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 I'm a **Generative AI Engineer at EY** who builds LLM-powered systems that actually work in enterprise environments. No toy demos—I ship production RAG pipelines, AI agents, and LLM tools that solve real business problems.
