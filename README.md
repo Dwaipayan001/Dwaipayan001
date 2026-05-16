@@ -80,8 +80,4 @@ I still geek out over hard problems—here are a few peer-reviewed papers:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwaipayan001&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 > Last updated: May 2026 • Keep building, keep shipping.
