@@ -12,7 +12,6 @@ I'm a **Generative AI Engineer at EY** who builds LLM-powered systems that actua
 [![Microsoft Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals-%230078D4?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/api/credentials/share/en-us/DwaipayanBandyopadhyay-3077/758DD2C59D46658?sharingId=B5102F4CD47D7F93)
 [![Databricks AI Agent Fundamentals](https://img.shields.io/badge/Databricks-AI%20Agent%20Fundamentals-%23FF3621?style=for-the-badge&logo=databricks)](https://credentials.databricks.com/786b4d11-57be-48ca-b84d-182b5822c0db#acc.CEHAQBgZ)
 [![Databricks GenAI Fundamentals](https://img.shields.io/badge/Databricks-GenAI%20Fundamentals-%23FF3621?style=for-the-badge&logo=databricks)](https://credentials.databricks.com/8586205a-0e80-4f6b-bcdb-87ab12c2c9b4#acc.OCnUctD4)
-[![Anthropic Academy](https://img.shields.io/badge/Anthropic-Academy-%23CB0C9F?style=for-the-badge&logo=anthropic)](https://verify.skilljar.com/c/zpfu8epfympr)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub-Copilot-%23181717?style=for-the-badge&logo=github)](https://learn.microsoft.com/api/credentials/share/en-us/DwaipayanBandyopadhyay-3077/2C48886A09D5451F?sharingId=B5102F4CD47D7F93)
 
 ## 🔧 What I Build
