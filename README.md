@@ -8,12 +8,12 @@ I'm a **Generative AI Engineer at EY** who builds LLM-powered systems that actua
 
 ## 🏆 Certifications & Badges
 
-![Databricks GenAI Engineer Associate](https://img.shields.io/badge/Databricks-GenAI%20Engineer%20Associate-%23FF3621?style=for-the-badge&logo=databricks)
-![Microsoft Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals-%230078D4?style=for-the-badge&logo=microsoft)
-![Databricks AI Agent Fundamentals](https://img.shields.io/badge/Databricks-AI%20Agent%20Fundamentals-%23FF3621?style=for-the-badge&logo=databricks)
-![Databricks GenAI Fundamentals](https://img.shields.io/badge/Databricks-GenAI%20Fundamentals-%23FF3621?style=for-the-badge&logo=databricks)
-![Anthropic Academy](https://img.shields.io/badge/Anthropic-Academy-%23CB0C9F?style=for-the-badge&logo=anthropic)
-![GitHub Copilot](https://img.shields.io/badge/GitHub-Copilot-%23181717?style=for-the-badge&logo=github)
+[![Databricks GenAI Engineer Associate](https://img.shields.io/badge/Databricks-GenAI%20Engineer%20Associate-%23FF3621?style=for-the-badge&logo=databricks)](https://www.databricks.com/)
+[![Microsoft Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals-%230078D4?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
+[![Databricks AI Agent Fundamentals](https://img.shields.io/badge/Databricks-AI%20Agent%20Fundamentals-%23FF3621?style=for-the-badge&logo=databricks)](https://www.databricks.com/)
+[![Databricks GenAI Fundamentals](https://img.shields.io/badge/Databricks-GenAI%20Fundamentals-%23FF3621?style=for-the-badge&logo=databricks)](https://www.databricks.com/)
+[![Anthropic Academy](https://img.shields.io/badge/Anthropic-Academy-%23CB0C9F?style=for-the-badge&logo=anthropic)](https://www.anthropic.com/academy)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub-Copilot-%23181717?style=for-the-badge&logo=github)](https://github.com/features/copilot)
 
 ## 🔧 What I Build
 - **Enterprise RAG systems** that retrieve and reason over proprietary data at scale
